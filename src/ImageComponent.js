@@ -16,7 +16,7 @@ const ImageComponent = () => {
       setLoading(true);
 
       const baseInput = userInput.trim();
-      const frameCount = 4;
+      const frameCount = 10;
 
       if (baseInput !== '') {
         
