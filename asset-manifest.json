@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Dashtoon-Engineer-Product/static/css/main.f02090cb.css",
+    "main.js": "/Dashtoon-Engineer-Product/static/js/main.85dc7741.js",
+    "static/js/787.9da9bd17.chunk.js": "/Dashtoon-Engineer-Product/static/js/787.9da9bd17.chunk.js",
+    "index.html": "/Dashtoon-Engineer-Product/index.html",
+    "main.f02090cb.css.map": "/Dashtoon-Engineer-Product/static/css/main.f02090cb.css.map",
+    "main.85dc7741.js.map": "/Dashtoon-Engineer-Product/static/js/main.85dc7741.js.map",
+    "787.9da9bd17.chunk.js.map": "/Dashtoon-Engineer-Product/static/js/787.9da9bd17.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f02090cb.css",
+    "static/js/main.85dc7741.js"
+  ]
+}
