@@ -1,6 +1,6 @@
 # React Comic Strip Generator
-deployed link: https://dashtoon-engineer-product2.vercel.app
-A simple React application that generates comic strips from user input text and allows users to share the generated frames.
+- Deployed link: https://dashtoon-engineer-product2.vercel.app
+- A simple React application that generates comic strips from user input text and allows users to share the generated frames.
 
 ## Demo
 
